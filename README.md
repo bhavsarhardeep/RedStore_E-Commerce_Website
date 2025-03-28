@@ -1,35 +1,28 @@
-# 🏬RedStore_E-Commerce_Website
+# 🏬 RedStore E-Commerce Website
 
-Welcome to the E-Commerce Website repository! This project is a fully functional online store built with HTML, CSS, and JavaScript.
+RedStore is a modern and fully responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript**. It provides a seamless online shopping experience with key features such as product listings, a shopping cart, user authentication, and a checkout system.
 
-🔗 Visit our website: https://bhavsarhardeep.github.io/RedStore_E-Commerce_Website/
+🔗 **Live Demo:** [RedStore E-Commerce Website](https://bhavsarhardeep.github.io/RedStore_E-Commerce_Website/)
 
-# **📌 Features**
+## 📌 Features
 
-✔️ **User authentication & account management.**
+- 🔹 **User Authentication** – Sign-up, login, and session management  
+- 🔹 **Product Catalog** – Browse products with filtering and sorting options  
+- 🔹 **Shopping Cart** – Add/remove items with real-time price updates  
+- 🔹 **Checkout Process** – Order summary and confirmation  
+- 🔹 **Responsive Design** – Optimized for all devices  
+- 🔹 **Contact Form** – Allowing users to get in touch for support  
 
-✔️ **Product listings & detailed product pages.**
+## 🛠️ Technologies Used
 
-✔️ **Shopping cart & checkout functionality.**
+### Frontend:
+- HTML, CSS, JavaScript  
+- Responsive design with CSS Flexbox & Grid  
 
-✔️ **Responsive design for mobile & desktop.**
+## 📜 License
 
-✔️ **Secure payment gateway integration (planned).**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-✔️ **Contact form for customer inquiries.**
-
-# **🛠️ Technologies Used**
-
-### **Frontend:**
-
-HTML, CSS, JavaScript
-
-Responsive design (CSS Flexbox & Grid)
-
-# **📜 License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-# **🤝 Contributing**
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests.
