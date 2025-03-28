@@ -23,7 +23,7 @@ Contact form for customer inquiries
 
 HTML, CSS, JavaScript
 
-**Responsive design (CSS Flexbox & Grid) **
+Responsive design (CSS Flexbox & Grid)
 
 # **📜 License**
 
