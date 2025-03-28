@@ -5,8 +5,8 @@ Welcome to the E-Commerce Website repository! This project is a fully functional
 
 # **📌 Features**
 
-### ✔️ User authentication & account management.
-### ✔️ Product listings & detailed product pages.
+✔️ User authentication & account management.
+✔️ Product listings & detailed product pages.
 ✔️ Shopping cart & checkout functionality.
 
 ✔️ Responsive design for mobile & desktop.
