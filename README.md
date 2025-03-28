@@ -19,7 +19,7 @@ Contact form for customer inquiries
 
 # **🛠️ Technologies Used**
 
-**Frontend:**
+### **Frontend:**
 
 HTML, CSS, JavaScript
 
