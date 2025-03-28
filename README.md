@@ -4,6 +4,7 @@
 Welcome to the E-Commerce Website repository! This project is a fully functional online store built with HTML, CSS, and JavaScript.
 
 # **📌 Features**
+
 ✔️ User authentication & account management.
 ✔️ Product listings & detailed product pages.
 ✔️ Shopping cart & checkout functionality.
