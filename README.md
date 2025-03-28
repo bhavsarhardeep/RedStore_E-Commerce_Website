@@ -1,5 +1,4 @@
-# RedStore_E-Commerce_Website
-# **🏬 E-Commerce Website**
+# 🏬RedStore_E-Commerce_Website
 
 Welcome to the E-Commerce Website repository! This project is a fully functional online store built with HTML, CSS, and JavaScript.
 
