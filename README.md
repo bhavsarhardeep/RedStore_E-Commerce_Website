@@ -1,9 +1,9 @@
 # RedStore_E-Commerce_Website
-# **🏬 E-Commerce Website*8
+# **🏬 E-Commerce Website**
 
 Welcome to the E-Commerce Website repository! This project is a fully functional online store built with HTML, CSS, and JavaScript.
 
-#**📌 Features**
+# **📌 Features**
 
 User authentication & account management
 
@@ -25,10 +25,10 @@ HTML, CSS, JavaScript
 
 **Responsive design (CSS Flexbox & Grid) **
 
-# **📜 License **
+# **📜 License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# **🤝 Contributing **
+# **🤝 Contributing**
 
 Contributions are welcome! Feel free to open issues and pull requests.
