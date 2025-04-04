@@ -1,4 +1,4 @@
-# 🏬 RedStore E-Commerce Website
+# 🌐 RedStore E-Commerce Website
 
 RedStore is a modern and fully responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript**. It provides a seamless online shopping experience with key features such as product listings, a shopping cart, user authentication, and a checkout system.
 
