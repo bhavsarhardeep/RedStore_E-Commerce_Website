@@ -5,13 +5,12 @@ RedStore is a modern and fully responsive **E-Commerce Website** built using **H
 🔗 **Live Demo:** [RedStore E-Commerce Website](https://bhavsarhardeep.github.io/RedStore_E-Commerce_Website/)
 
 ## 📌 Features
-
-- 🔹 **User Authentication** – Sign-up, login, and session management  
-- 🔹 **Product Catalog** – Browse products with filtering and sorting options  
-- 🔹 **Shopping Cart** – Add/remove items with real-time price updates  
-- 🔹 **Checkout Process** – Order summary and confirmation  
-- 🔹 **Responsive Design** – Optimized for all devices  
-- 🔹 **Contact Form** – Allowing users to get in touch for support  
+🔹 **User Authentication** – Sign-up, login, and session management  
+🔹 **Product Catalog** – Browse products with filtering and sorting options  
+🔹 **Shopping Cart** – Add/remove items with real-time price updates  
+🔹 **Checkout Process** – Order summary and confirmation  
+🔹 **Responsive Design** – Optimized for all devices  
+🔹 **Contact Form** – Allowing users to get in touch for support  
 
 ## 🛠️ Technologies Used
 
